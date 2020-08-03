@@ -1,4 +1,4 @@
-# ShareX
+# ShareXX
 
 [![Build status](https://ci.appveyor.com/api/projects/status/github/sharex/sharex?svg=true)](https://ci.appveyor.com/project/ShareX/sharex)
 [![CodeFactor](https://www.codefactor.io/repository/github/sharex/sharex/badge)](https://www.codefactor.io/repository/github/sharex/sharex)
