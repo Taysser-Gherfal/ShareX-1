@@ -32,11 +32,11 @@ namespace ShareX.ImageEffectsLib
     public abstract class ImageEffect
     {
         [DefaultValue(true), Browsable(false)]
-        public bool Enabled { get; set; }
+        public bool Enable { get; set; }
 
         protected ImageEffect()
         {
-            Enabled = false;
+            Enable = true;
         }
 
         public abstract Bitmap Apply(Bitmap bmp);
