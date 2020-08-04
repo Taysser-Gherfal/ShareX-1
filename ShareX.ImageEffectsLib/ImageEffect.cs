@@ -35,7 +35,7 @@ namespace ShareX.ImageEffectsLib
 
         protected ImageEffect()
         {
-            Enabled = true;
+            Enabled = false;
         }
 
         public abstract Bitmap Apply(Bitmap bmp);
