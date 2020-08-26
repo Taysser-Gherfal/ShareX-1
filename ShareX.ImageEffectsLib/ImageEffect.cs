@@ -27,6 +27,7 @@
 using System.ComponentModel;
 using System.Drawing;
 
+
 namespace ShareX.ImageEffectsLib
 {
     public abstract class ImageEffect
