@@ -10,3 +10,6 @@
 [![Screenshot](https://getsharex.com/img/ShareX_Screenshot.png)](https://getsharex.com)
 
 ### For further information check [getsharex.com](https://getsharex.com)
+
+
+
